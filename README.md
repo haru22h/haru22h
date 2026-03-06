@@ -1,20 +1,51 @@
-<h1 align="center">Mellow I am Haru. CS student</h1>
-<h3 align="center">𓂃 ོ☼𓂃𓍯˚‧︵‿ ࿔.‿︵‧˚𓍯 ༄︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿༄ just an amateur low-level programmer figuring things out ༄︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿༄ 𓏲‧𓂃˚𓍯˚ ˚࿔ ִֶָ.𓂃 ࣪ 𓍯 ִִֶֶָָ་ 𓏲</h3>
+<h2 align="center">Hello,I am Haru.<br>Firstyear CS student.<br> ༄︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿༄<br> just an amateur low-level programmer figuring things out <br>༄︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿༄</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haru22h&label=Profile%20views&color=0e75b6&style=flat" alt="haru22h" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haru22h" alt="haru22h" /></a> </p>
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5pejhzaG14YzF0bmM3emp0bmVzM3YxeTg0NWM4bGptbmlyajBveCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IKFVtPf8jP6KJH16dB/giphy.gif"  />
 
-- I’m currently learning **python**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codeforces.com/profile/haru_11h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="haru_11h" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/haru22h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="haru22h" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haru22h&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haru22h&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haru22h&show_icons=true&locale=en" alt="haru22h" /></p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+</div>
 
+###
+
+<div align="center">
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2p5aTNwZDMwY3Nuam9mdnY0ZHF0bnZmeWhod3R3cnlkNTdleDhoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7sQcUntHVodrmyXRW0/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=haru22h.haru22h&"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.youtube.com/@Haru_%E3%83%8F%E3%83%ABh11" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/haru.22h/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discordapp.com/users/528199272840036372" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="haru12om@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
