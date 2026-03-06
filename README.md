@@ -1,4 +1,4 @@
-<h2 align="center">Hello,I am Haru.<br>Firstyear CS student.<br> ༄︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿༄<br> just an amateur low-level programmer figuring things out <br>༄︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿༄</h2>
+<h2 align="center">Hello,I am Haru.<br>Firstyear CS student.<br> ༄︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿༄<br><br> just an amateur low-level programmer figuring things out <br><br>༄︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿༄</h2>
 
 ###
 
@@ -9,6 +9,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haru22h&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haru22h&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=8&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
