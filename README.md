@@ -1,4 +1,4 @@
-<h2 align="center">I am Haru.<br>Firstyear CS student.<br> ༄︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿༄<br><br> just an amateur low-level programmer figuring things out<br><br>༄︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿༄</h2>
+<h2 align="center"><br>Firstyear CS student.<br> ༄︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿༄<br><br> just an amateur low-level programmer figuring things out<br><br>༄︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿༄</h2>
 
 ###
 
