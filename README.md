@@ -1,4 +1,4 @@
-<h2 align="center"><br>Firstyear CS student.<br> ༄︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿༄<br><br>  amateur programmer figuring things out<br><br>༄︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿༄</h2>
+<h2 align="center"><br>Firstyear CS student.<br> ༄︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿༄<br><br>  stupid programmer *ehe* <br><br>༄︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿༄</h2>
 
 ###
 
