@@ -1,4 +1,4 @@
-<h2 align="center"><br>Firstyear CS student.<br> ༄︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿༄<br><br> *ehe* <br><br>༄︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿༄</h2>
+<h2 align="center"><br>Firstyear CS student.<br> ༄︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿༄<br><br> studying.. <br><br>༄︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿༄</h2>
 
 ###
 
